@@ -1,4 +1,4 @@
-crescendo-frontend
+crescendo-cms-frontend
 ==================
 
-crescendo frontend application
+crescendo-cms frontend application
