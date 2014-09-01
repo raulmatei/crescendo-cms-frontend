@@ -1,0 +1,15 @@
+{
+  "name": "crescendo-cms-frontend",
+  "namespace": "crescendo",
+  "version": "0.0.1",
+  "description": "crescendo-frontend",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raulmatei/crescendo-cms-frontend.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/raulmatei/crescendo-cms-frontend/issues"
+  },
+  "homepage": "https://github.com/raulmatei/crescendo-cms-frontend"
+}
