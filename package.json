@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/raulmatei/crescendo-cms-frontend/issues"
   },
-  "homepage": "https://github.com/raulmatei/crescendo-cms-frontend"
+  "homepage": "https://github.com/raulmatei/crescendo-cms-frontend",
+  "devDependencies": {
+    "broccoli": "^0.12.3"
+  }
 }
